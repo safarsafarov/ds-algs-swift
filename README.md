@@ -1,10 +1,10 @@
 # Data Structures & Algorithms in Swift
 ## Raywenderlich
 
-- [ ] [`Section I: Intro`]
-    - [ ] [`Chapter 1: Why Learn Data Structures & Algorithms?`]
-    - [ ] [`Chapter 2: Complecity`]
-    - [ ] [`Chapter 3: Swift Standart Library`]
+- [x] [`Section I: Intro`]
+    - [x] [`Chapter 1: Why Learn Data Structures & Algorithms?`]
+    - [x] [`Chapter 2: Complecity`]
+    - [x] [`Chapter 3: Swift Standart Library`]
 - [ ] [`Section II: Elementry Data Structures`]
     - [ ] [`Chapter 4: Stacks`]
     - [ ] [`Chapter 5: Stacks Challenges`]
